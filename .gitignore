@@ -1,3 +1,5 @@
 *.pdf
 *.jpeg
 *.png
+code/__pycache__/
+Notebooks/.ipynb_checkpoints/
