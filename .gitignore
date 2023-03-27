@@ -1,3 +1,5 @@
 *.pdf
 *.jpeg
 *.png
+.ipynb_checkpoints
+
