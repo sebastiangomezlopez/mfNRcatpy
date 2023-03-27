@@ -2,4 +2,4 @@
 *.jpeg
 *.png
 .ipynb_checkpoints
-
+/examples/.ipynb_checkpoints
