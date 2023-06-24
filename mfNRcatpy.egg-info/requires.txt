@@ -1,0 +1,7 @@
+numpy
+scipy
+core-watpy
+h5py
+matplotlib
+lalsuite
+numba
